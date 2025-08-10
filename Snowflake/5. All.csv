@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics,Status
 HARD,Design In-Memory File System,100.0,0.4816948941663167,https://leetcode.com/problems/design-in-memory-file-system,"Hash Table, String, Design, Trie, Sorting"
-EASY,Happy Number,93.7,0.580726470983853,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers", "✅"
+DONE,Happy Number,93.7,0.580726470983853,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
 HARD,Minimum Window Substring,91.6,0.45350694134753466,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
 MEDIUM,Course Schedule II,91.6,0.5342350029047974,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
 MEDIUM,Find All Anagrams in a String,90.4,0.5220071349201708,https://leetcode.com/problems/find-all-anagrams-in-a-string,"Hash Table, String, Sliding Window"
